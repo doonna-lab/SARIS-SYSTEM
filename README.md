@@ -31,7 +31,7 @@ Open the configuration file (e.g., config.php or similar) in the project files.
 Update the database connection settings with your local server credentials.
 Run the application:
 Start your local server.
-Access the application through your web browser via the local server URL (e.g., http://localhost/student-information-system).
+Access the application through your web browser via the local server URL (e.g.,http://localhost/allauigan-liza/).
 Usage Instructions:
 Login:
 Use the provided credentials to log in to the system.
